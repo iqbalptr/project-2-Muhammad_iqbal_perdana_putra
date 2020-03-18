@@ -12,4 +12,4 @@ Nice to Meet You
 ![Logo](astronaut.png)
 ![body_img](undraw_walking_outside_5ueb.png)
 
-[Deploy_netlify]()
+[Deploy_netlify](https://iqbalptr404.netlify.com/)
